@@ -1,0 +1,16 @@
+{
+    "name": "pepecaust",
+    "version": "1.0.0",
+    "description": "anti pepe emojis discord bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "TheRox",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "mongodb": "^3.4.1",
+        "mongoose": "^5.8.3"
+    }
+}
